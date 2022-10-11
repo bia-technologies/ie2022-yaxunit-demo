@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "settings": {
+    "module-structure-method-in-regions": {
+      "enabled": false,
+      "properties": {
+        "excludeTopMdObjectNamePattern": "ИсполняемыеСценарии"
+      }
+    },
+    "common-module-type": {
+      "enabled": false
+    }
+  }
+}
