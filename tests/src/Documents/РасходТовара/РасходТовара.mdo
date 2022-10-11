@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5bae9cd8-c619-462a-bb9c-c1a439f39251">
+  <producedTypes>
+    <objectType typeId="57f2ad01-ec2e-48f1-8aaa-a031a76e3f42" valueTypeId="0f8d40ad-2fa7-4a49-90df-522f8f0402c7"/>
+    <refType typeId="f770654d-1b91-4f15-9675-af7431c0313e" valueTypeId="1a46ba97-69b2-4e0d-baff-40919495add0"/>
+    <selectionType typeId="4e4f896f-71cc-4be0-848d-3f5a559615ac" valueTypeId="7eeca6ef-a65b-4e31-8c2e-d7231645b644"/>
+    <listType typeId="653d37db-de1f-4b41-8d6e-ef1d45d27719" valueTypeId="eb8b9641-b99e-4453-983a-8532d364f0b4"/>
+    <managerType typeId="3ad47e6d-98fd-418c-9f25-a9cabe38f140" valueTypeId="7841971c-24dd-4a70-926b-4543dd38c2a0"/>
+  </producedTypes>
+  <name>РасходТовара</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension">
+    <objectModule>Extended</objectModule>
+  </extension>
+</mdclass:Document>
